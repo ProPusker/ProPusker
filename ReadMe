@@ -1,15 +1,15 @@
-# 💫 About Me
+ 💫 About Me
 
 Hi — I'm ProPusker 👋
 
 I design and build reliable cloud platforms, automation, and operational tooling. My work is focused on AWS automation, infrastructure reliability, and practical scripts that save time and reduce risk — mostly authored in PowerShell and Python.
 
-## At a glance
+At a glance
 - Current: Senior Cloud Engineer — platform architecture, IaC, automation, observability, and incident response.
 - Former: IT Director, System Engineer, Admin — hands-on with servers, AD, M365, and day-to-day ops.
 - Languages & tools: PowerShell • Python • Bash • AWS • Lambda • RDS • S3 • CloudTrail • Terraform / IaC workflows • GitHub Actions
 
-## What I build
+What I build
 - AWS disaster recovery and validation scripts (RDS PITR, Multi-AZ failover)  
   Example: [AWS-RDS-Disaster-Recovery](https://github.com/ProPusker/AWS-RDS-Disaster-Recovery) — README & configuration updates (commit: "Add README for AWS RDS Disaster Recovery Script", 2026-01-20)
 - Network & packet capture tooling for ALBs and traffic analysis  
@@ -27,43 +27,8 @@ I design and build reliable cloud platforms, automation, and operational tooling
 
 Most of my practical work is focused on automating common operational tasks and enabling safer, repeatable changes.
 
-## How I work
-- Infrastructure-as-code & automation-first: everything reproducible and reviewed.
-- Observability-driven: metrics/logs/alerts guide improvements.
-- Small, practical tools that solve recurring ops problems (PowerShell for Windows teams; Python/Lambda for cloud glue).
 
-## Want to use my tools?
-- Browse the repos above and check READMEs for usage and safety notes.
-- Open an issue or PR if you want features or integrations with your environment.
-
-## Connect
+Connect
 - GitHub: https://github.com/ProPusker  
 - LinkedIn: https://www.linkedin.com/in/system-engineer-pusker-ghimire/  
 - Email: ProPuskerWorks@gmail.com
-
----
-
-## 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-## 📊 GitHub Stats
-
-If the dynamic cards below do not load, the provider (third-party) may be down or blocking requests — see Troubleshooting.
-
-![](https://github-readme-stats.vercel.app/api?username=ProPusker&theme=dark&hide_border=true&include_all_commits=false&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=ProPusker&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProPusker&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
----
-
-## Troubleshooting — images not loading
-1. Open the image URL directly in a new tab. If you get 404 or 403, the URL or service is the issue.  
-2. Use HTTPS (HTTP may be blocked).  
-3. Third-party services (vercel.app, nirzak-streak-stats, visitcount) can be rate-limited or blocked — try again later or switch to an alternative.  
-4. For reliability, host important images in the repo (e.g., `images/`) and reference them relatively: `![alt](./images/graphic.png)` or use `https://raw.githubusercontent.com/<owner>/<repo>/<branch>/path/to/image.png`.  
-5. GitHub README is sanitized: scripts and custom style blocks are stripped. For full HTML/CSS/JS, publish via GitHub Pages (index.html).
-
----
-
-<!-- Updated: cleaned formatting and added troubleshooting -->
